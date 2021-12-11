@@ -83,10 +83,10 @@ author:
   name             : "Esther González-Padilla"
   avatar           : "Profilepic.jpg"
   bio              : "MD. MPH. PhD Student. Foodie. Scientist. Logophile. (she|her)"
-  location         : "Exhiled for the good of the realm"
+  location         : "Europe(ish)"
   employer         : "Lund University, Sweden"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/esthergonzalezpadilla/"
   orcid            : "http://orcid.org/0000-0002-9288-1217"
   pinterest        :
   soundcloud       :
